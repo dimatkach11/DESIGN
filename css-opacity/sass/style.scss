@@ -1,0 +1,14 @@
+@import '../../common/css/null';
+
+$fz: 50px;
+
+.example-block {
+    font-size: $fz;
+    margin: 0 0 30px 0;
+    border: 10px solid #000;
+}
+.example-string {
+    font-size: $fz;
+}
+.example-image {
+}
